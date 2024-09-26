@@ -5,8 +5,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-aspnet-99c0ff?style=for-the-badge&logo=dotnet&logoColor=ffffff&labelColor=282828"><br/>
   <img src="https://img.shields.io/badge/-Solidity-660099?style=for-the-badge&logo=solidity&logoColor=ffffff&labelColor=282828">
-  <img src="https://img.shields.io/badge/-NodeJS-660099?style=for-the-badge&logo=php&logoColor=ffffff&labelColor=282828">
-  <img src="https://img.shields.io/badge/-PHP-660099?style=for-the-badge&logo=node.js&logoColor=ffffff&labelColor=282828"><br/>
+  <img src="https://img.shields.io/badge/-NodeJS-660099?style=for-the-badge&logo=node.js&logoColor=ffffff&labelColor=282828">
+  <img src="https://img.shields.io/badge/-PHP-660099?style=for-the-badge&logo=php&logoColor=ffffff&labelColor=282828"><br/>
   <img src="https://img.shields.io/badge/-JavaScript-c58545?style=for-the-badge&logo=javascript&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-TypeScript-c58545?style=for-the-badge&logo=typescript&logoColor=c58545&labelColor=282828"><br/>
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
