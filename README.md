@@ -41,14 +41,8 @@
          alt="erenivon" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://youtube.com/c/sherzedtrap" target="blank"><img align="center"
-         src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
-         alt="azzar" height="30"/></a>
      <a href="https://instagram.com/erenivon" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/erenivon" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
     </p>
