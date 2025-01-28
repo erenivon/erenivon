@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/-TypeScript-c58545?style=for-the-badge&logo=typescript&logoColor=c58545&labelColor=282828"><br/>
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-c58545?style=for-the-badge&logo=css3&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-C Sharp-c58545?style=for-the-badge&logo=csharp&logoColor=c58545&labelColor=282828"><br/>
+  <img src="https://img.shields.io/badge/-C%23-c58545?style=for-the-badge&logo=c&logoColor=c58545&labelColor=282828"><br/>
   <img src="https://img.shields.io/badge/-Photoshop-6082B6?style=for-the-badge&logo=adobephotoshop&logoColor=6082B6&labelColor=282828">
   <img src="https://img.shields.io/badge/-After Effects-6082B6?style=for-the-badge&logo=adobeaftereffects&logoColor=6082B6&labelColor=282828">
   <img src="https://img.shields.io/badge/-Illustrator-6082B6?style=for-the-badge&logo=adobeillustrator&logoColor=6082B6&labelColor=282828">
