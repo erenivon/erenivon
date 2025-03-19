@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.erenivon.ml">
+  <a href="#!">
   <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/096f537fcee505624cb6721a7ec98fc8379e5ce6/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -33,9 +33,6 @@
     <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/erenivon/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="erenivon" height="30"/></a>
       <a href="mailto:erenivon@gmail.com"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="erenivon" height="30"/></a>
